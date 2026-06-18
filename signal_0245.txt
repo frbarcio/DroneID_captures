@@ -1,0 +1,32 @@
+Signal metadata
+=================
+
+record_id: 245
+source_name: 20260617_125649_LOW_Fs_minus_7.5MHz_39.8dB.npy
+fs_hz: 20000000.0
+
+--- Frequency ---
+f1_hz: -4941406.25
+f2_hz: 5000000.0
+deltaf_mhz: 9.941406
+center_offset_hz: 0.0
+
+--- Time ---
+t1_s: 5.12e-05
+t2_s: 0.0006528
+duration_ms: 0.601600
+
+--- Signal quality ---
+snr_db: 55.66580781001932
+
+--- Samples ---
+sample_start: 1024
+sample_stop: 13056
+num_samples: 15056
+
+--- Features ---
+export_margin_us: 100.0
+original_sample_start: 1024
+original_sample_stop: 13056
+saved_sample_start: 0
+saved_sample_stop: 15056
