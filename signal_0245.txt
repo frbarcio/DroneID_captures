@@ -2,8 +2,8 @@ Signal metadata
 =================
 
 record_id: 245
-source_name: 20260617_125649_LOW_Fs_minus_7.5MHz_39.8dB.npy
-fs_hz: 20000000.0
+source_name: 20260617_125649_DJI_AIR_3S_39.8dB.npy
+fs_hz: 20000000.0   freq: 2444.5 Mhz
 
 --- Frequency ---
 f1_hz: -4941406.25
